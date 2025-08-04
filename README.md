@@ -1,6 +1,6 @@
 ﻿# ELOVO_Paths_Tasks
-**Task:  Traffic Sign Recognition Description
-**
+**Task:  Traffic Sign Recognition** 
+
 **Description**:
 
  Dataset (Recommended): GTSRB (Kaggle
@@ -16,6 +16,7 @@
  ******************************************************************************
 
   **Task:  Sales Forecasting Description**
+  
 ** Description:** 
 
 Dataset (Recommended): Walmart Sales Forecast (Kaggle)
@@ -30,6 +31,7 @@ Dataset (Recommended): Walmart Sales Forecast (Kaggle)
  
 Apply XGBoost or LightGBM with time-aware validation
 **********************************************************************************
+
 
 
 
