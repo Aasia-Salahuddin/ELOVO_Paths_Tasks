@@ -17,8 +17,7 @@
 
   **Task:  Sales Forecasting Description**
   
-** Description:** 
-
+**Description:**
 Dataset (Recommended): Walmart Sales Forecast (Kaggle)
 
  Predict future sales based on historical sales data
@@ -31,6 +30,7 @@ Dataset (Recommended): Walmart Sales Forecast (Kaggle)
  
 Apply XGBoost or LightGBM with time-aware validation
 **********************************************************************************
+
 
 
 
