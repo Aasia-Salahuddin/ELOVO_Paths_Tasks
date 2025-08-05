@@ -15,21 +15,18 @@
 
  ******************************************************************************
 
-  **Task:  Sales Forecasting Description**
+  **Task:  Movie recommendation system**
   
 **Description:**
-Dataset (Recommended): Walmart Sales Forecast (Kaggle)
-
- Predict future sales based on historical sales data
- 
- Create time-based features (day, month, lag values)
- 
- Apply regression models to forecast next period's sales
- 
- Plot actual vs. predicted values over time
- 
-Apply XGBoost or LightGBM with time-aware validation
+ Dataset (Recommended): MovieLens 100K Dataset (Kaggle
+ Build a system that recommends movies based on user similarity
+ Use a user-item matrix to compute similarity scores
+ Recommend top-rated unseen movies for a given user
+ Evaluate performance using precision at K
+ Implement item-based collaborative filtering 
+Try matrix factorization (SVD)
 **********************************************************************************
+
 
 
 
